@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 # Project Title
 
 Dulakshi Keshani - Portfolio Website 
@@ -68,5 +68,4 @@ Drag and drop the build folder to Netlify dashboard
 
 Or use Netlify CLI: netlify deploy --prod --dir=build
 
-=======
->>>>>>> eb1c7b88caab377d03c30126759737c5b384ca93
+
